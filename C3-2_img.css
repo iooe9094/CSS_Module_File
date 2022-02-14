@@ -1,0 +1,9 @@
+body {
+    background-image: url(../img/test_image.jpg);
+    /* ..은 뒤로가기를 의미함 */
+}
+
+h1 { color: rgb(42, 177, 143);}
+
+p { color : rgba(100, 100, 200, 0.5)}
+/* raba의 4번째는 투명도 설정을 의미함 디폴트값은 1*/

@@ -1,0 +1,31 @@
+li:nth-child(2n) {
+    color: yellow;
+    border-radius: 10px;
+}
+li:nth-child(2n+1) {
+    color: blueviolet;
+    border-radius: 20px;
+}
+ #header {
+    color: red;
+    font-size: 20px;
+}
+
+ .box {
+     border-width : 3px;
+     border-style: dashed;
+     background-color: black;
+     overflow: hidden;
+ }
+
+  .box2 {
+     border-width : 3px;
+     border-style: groove;
+     background-color: black;
+     border-radius: 15x;
+     overflow: hidden;
+  }
+
+  body {
+      background-image: url(../img/travel-6768660.png);
+  }

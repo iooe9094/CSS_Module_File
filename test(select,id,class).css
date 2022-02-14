@@ -1,0 +1,16 @@
+        /* id 선택자 */
+        #title {
+            font-size: 3rem;
+        }
+        /* 태그 선택자 */
+        strong {
+            color: blue; float: left;
+        }
+        /* 클래스 선택자 */
+        .error {
+            color: red; width: 300px;
+        }
+        /* 전체 선택자 */
+        * {
+            color: grey; overflow: hidden;
+        }
